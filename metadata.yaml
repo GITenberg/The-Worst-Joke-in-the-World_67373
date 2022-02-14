@@ -1,0 +1,29 @@
+_repo: The-Worst-Joke-in-the-World_67373
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Holding, Elisabeth Sanxay
+    birthdate: 1889
+    deathdate: 1955
+    gutenberg_agent_id: '54174'
+    url: http://www.gutenberg.org/2009/agents/54174
+    wikipedia: https://en.wikipedia.org/wiki/Elisabeth_Sanxay_Holding
+description: ''
+gutenberg_issued: '2022-02-11'
+identifiers:
+  gutenberg: '67373'
+language: en
+pgterms:marc904: https://archive.org/details/munseys-v-86-n-02-1925-11-ibc-bc
+pgterms:marc905: 20220201171224holding
+pgterms:marc906: '1925'
+pgterms:marc907: US
+production_note: Roger Frank and Sue Clark. This file was produced from images generously
+  made available by The Internet Archive.
+publication_note: United States :The Frank A. Munsey Company,1925.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Worst Joke in the World
+url: http://www.gutenberg.org/ebooks/67373
